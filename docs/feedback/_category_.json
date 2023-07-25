@@ -1,0 +1,10 @@
+{
+  "position": 1,
+  "label": "만든이에게",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "customProps": {
+    "description": "우리동네 만든이에게 피드백을 주세요."
+  }
+}
